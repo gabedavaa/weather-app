@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: monospace;
-  background-image: url(./back\ photo.jpg);
+  /* background-image: url(./back\ photo.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
 }
